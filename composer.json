@@ -1,11 +1,11 @@
 {
-    "name": "takielias/tablar-crud-generator",
+    "name": "tipusultan007/tablar-crud-generator",
     "description": "Laravel Tablar Crud Generator based on https://github.com/takielias/tablar",
     "license": "MIT",
     "authors": [
         {
-            "name": "Taki Elias",
-            "email": "taki.elias@gmail.com"
+            "name": "Tipu sultan",
+            "email": "tipusultan.ctg@gmail.com"
         }
     ],
     "keywords": [
